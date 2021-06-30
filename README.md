@@ -32,6 +32,7 @@ Each below procedure is implemented for the languages: Spanish, English, French,
 •	1.11. Run model for spectograms and results
 
 
+
 ### Lauguage Recognition to all dataset( all 4 languages combined)
 •	5.1. Summary and concatenation                                                                                                                                 
 We concatenated all the 4 language data in a single dataframe and did the sum.
