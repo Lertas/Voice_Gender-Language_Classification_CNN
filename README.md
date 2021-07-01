@@ -10,7 +10,7 @@ This is a project with domain voice gender and language recognition. We have to 
 ### Gender Recognition to each Language
 Each below procedure is implemented for the languages: Spanish, English, French, German
 
-•	1.1. Dataset and counplots                                                                                                                                        We used the Mozilla audio dataset(https://ccommonvoice.mozilla.org/en/datasets), we also performed data exploration to see our data to each language and the distribution of the attributes of interest.
+•	1.1. Dataset and counplots                                                                                                                                        We used the Mozilla audio dataset(https://commonvoice.mozilla.org/en/datasets), we also performed data exploration to see our data to each language and the distribution of the attributes of interest.
 
 •	1.2. Convert mp3 to wav                                                                                                                                           To feed the CNN’s that we used, we converted the .mp3 audio files using the library.
 
