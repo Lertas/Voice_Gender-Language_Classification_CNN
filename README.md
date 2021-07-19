@@ -5,7 +5,6 @@ Msc in Data Science 2020-21, NCSR 'Demokritos'. Deep Learning course. 2nd Semest
 This is a project with domain voice gender and language recognition. We have to extract some features from our mp3 data and then with some deep learning methods to predict the gender and/or language of this voice record.
 
 
-
 ### Gender Recognition to each Language
 Each below procedure is implemented for the languages: Spanish, English, French, German
 
