@@ -1,7 +1,6 @@
 ## Voice_Multi-Label_Classification_DeepLearning
 
-Msc in Data Science 2020-21, NCSR 'Demokritos'. Deep Learning course. 
-Voice gender recognition.
+Msc in Data Science 2020-21, NCSR 'Demokritos'. Deep Learning course. 2nd Semester.
 
 This is a project with domain voice gender and language recognition. We have to extract some features from our mp3 data and then with some deep learning methods to predict the gender and/or language of this voice record.
 
